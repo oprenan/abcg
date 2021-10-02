@@ -1,4 +1,4 @@
-ABCg -- Renan de Oliveira Pinto 11201720114
+ABCg
 ======
 
 Development framework accompanying the course MCTA008-17 Computer Graphics at [UFABC](https://www.ufabc.edu.br/).
@@ -12,7 +12,7 @@ Implementation of Tic Tac Toe using ImGui widgets.
 ### Credits
 
 Developed by Harlen Batagelo.
-This fork is updated by Renan de Oliveira Pinto.
+This fork is updated by Renan de Oliveira Pinto (11201720114).
 
 ### License
 
