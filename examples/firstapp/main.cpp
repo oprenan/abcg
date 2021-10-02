@@ -10,7 +10,7 @@ int main(int argc, char **argv) {
     
     // Create OpenGL window
     auto window{std::make_unique<OpenGLWindow>()};
-    window->setWindowSettings({.title = "First App"});
+    window->setWindowSettings({.title = "First App",.width=450,.height=700});
     
     // Run application
     app.run(std::move(window));
