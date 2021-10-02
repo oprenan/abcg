@@ -12,7 +12,8 @@ Implementation of Tic Tac Toe using ImGui widgets.
 ### Credits
 
 Developed by Harlen Batagelo.
-This fork is updated by Renan de Oliveira Pinto (11201720114).
+
+Updated by Renan de Oliveira Pinto (11201720114).
 
 ### License
 
