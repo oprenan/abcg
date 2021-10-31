@@ -1,0 +1,36 @@
+Comp Gráfica
+
+Jogo de corrida em obstaculos
+- Vitória vem caso consiga passar pelo labirinto completamente
+- Derrota vem caso saia da tela
+- Obstáculos devem ser gerados automaticamente randomicamente
+- Andar para direita ou para cima? Para direita rola de pular.
+- Inspiração: geometry dash
+
+Implementação
+- Player
+    - Movimentação
+        - Para cima - pulo
+        - Para baixo - desce mais rapido
+        - Para direita - corre mais
+        - Para esquerda - diminui velocidade
+    - Vida
+        - Encostar no obstaculo é gameover
+    - Estética
+        - A definir
+    - Controles
+        - Full teclado, não jogável por mouse
+- Pista
+    - Deve ser pseudo aleatória
+- Obstaculos
+    - Estética
+        - Depende do fundo
+        - Cor forte e sugestiva
+    - Depende da pista
+        - Deve receber a pista como parâmetro para gerar a posição
+        - Leva em consideração algum nível de dificuldade
+            - Distância entre obstaculos
+            - Altura
+            - 
+- Fundo(?)
+
