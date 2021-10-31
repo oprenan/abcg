@@ -24,4 +24,4 @@
  
  • O link da página web (GitHub Pages ou similar) com a aplicação rodando em WebAssembly. Excepcionalmente, se não for possível gerar o binário WebAssembly, poderá ser entregue um vídeo no lugar na página.
  
- Arquivo com video da execução local disponível nesse repositório com nome de screen_recordig.mp4
+ Arquivo com video da execução local disponível nesse repositório com nome de screen_recordig.mov
